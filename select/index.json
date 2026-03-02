@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "温もりのそばで、羽を預けて",
+  "base_artist": "ヒナ(CV:広橋涼)",
+  "createdAt": "2026-03-02T20:11:31.310155Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "温もりのそばで、羽を預けて",
+      "artist": "ヒナ(CV:広橋涼)",
+      "has_synced": false,
+      "path": "select/pl_01_温もりのそばで、羽を預けて_ヒナ(CV_広橋涼).txt"
+    }
+  ]
+}
